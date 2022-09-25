@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86046897438",
+    "project_id": "face-detection-67293",
+    "storage_bucket": "face-detection-67293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86046897438:android:74762e7bafa11032c7450f",
+        "android_client_info": {
+          "package_name": "com.ak.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86046897438-upgt451sng5657s205rejh2essbibj4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-HCdphotgtGXJJVxrk0PqOllf-HdYbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86046897438-upgt451sng5657s205rejh2essbibj4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
